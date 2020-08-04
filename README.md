@@ -4,7 +4,7 @@ My name is **Jorge Serrano** and I live in **[Madrid (Spain)](https://www.google
 
 I have been awarded as **Microsoft MVP** during 16 years (2001-2017), I love the technology and help to others.
 
-I have written more than 10 technical books and (more than 100) technical articles for specialized magazines in the past, I have published technical videos as well.
+I have published videos and courses, written more than 10 books and more than 100 articles for specialized magazines in the past.
 
 At present, I write technical posts on my blog [here](https://geeks.ms/jorge/), sharing and **always learning**!
 
