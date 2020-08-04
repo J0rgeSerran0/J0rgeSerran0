@@ -1,7 +1,5 @@
 ### Hi there, how are you doing :wave:
 
-### :muscle: About me!
-
 My name is **Jorge Serrano** and I live in **[Madrid (Spain)](https://www.google.es/maps/place/Madrid/@40.4381311,-3.8196213,11z/data=!3m1!4b1!4m5!3m4!1s0xd422997800a3c81:0xc436dec1618c2269!8m2!3d40.4167754!4d-3.7037902)**.
 
 I have been awarded as **Microsoft MVP** during 16 years (2001-2017), I love the technology and help to others. You can visit my public Microsoft MVP profile [here](https://mvp.microsoft.com/es-es/PublicProfile/8633) 
@@ -20,24 +18,7 @@ My rol there is a multidisciplinary rol, our line of work and responsibility is 
 
 You can find/contact me here:
 
-* [GitHub - this place](https://github.com/J0rgeSerran0/)
 * [Blog](https://geeks.ms/jorge/)
+* [Microsoft MVP Profile](https://mvp.microsoft.com/es-es/PublicProfile/8633)
 * [LinkedIn](https://www.linkedin.com/in/jorge-serrano-p%C3%A9rez-24388520/)
 * [Twitter](https://twitter.com/J0rgeSerran0)
-
-
-
-<!--
-**J0rgeSerran0/J0rgeSerran0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
