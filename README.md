@@ -14,7 +14,7 @@ I'm currently working on **[OCU Consumidores](https://www.ocu.org/)**, an Organi
 
 There I work with different technologies, most of them related with Microsoft (.NET Core, Microsoft Azure, Microsoft Office 365, etc).
 
-My rol there is a multidisciplinary rol, our line of work and responsibility is horizontal with a strong team work, all of us have a lot of experience, however I like to say that I am **Developer**!
+My rol is a multidisciplinary rol, with a strong team work with high responsibility and in an experienced team, however I like to say that I am **Developer**!
 
 You can find/contact me here:
 
