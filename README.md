@@ -6,7 +6,7 @@ I have been awarded as **Microsoft MVP** during 16 years (2001-2017), I love the
 
 I have published videos and courses, written more than 10 books and more than 100 articles for specialized magazines in the past.
 
-At present, I am coordinator of an [User Group - MsCoders](https://www.meetup.com/es-ES/MSCoders/#), and I write technical posts on my [blog](https://geeks.ms/jorge/), sharing and **always learning**!
+At present, I am coordinator of an [**User Group - MsCoders**](https://www.meetup.com/es-ES/MSCoders/#), and I write technical posts on my [**Blog**](https://geeks.ms/jorge/), sharing and **always learning**!
 
 ### :point_right: Today
 
@@ -18,7 +18,7 @@ My rol is a multidisciplinary rol, with a strong team work with high responsibil
 
 You can find/contact me here:
 
-* [Blog](https://geeks.ms/jorge/)
-* [Microsoft MVP Profile](https://mvp.microsoft.com/es-es/PublicProfile/8633)
-* [LinkedIn](https://www.linkedin.com/in/jorge-serrano-p%C3%A9rez-24388520/)
-* [Twitter](https://twitter.com/J0rgeSerran0)
+* [**Blog**](https://geeks.ms/jorge/)
+* [**Microsoft MVP Profile**](https://mvp.microsoft.com/es-es/PublicProfile/8633)
+* [**LinkedIn**](https://www.linkedin.com/in/jorge-serrano-p%C3%A9rez-24388520/)
+* [**Twitter - J0rgeSerran0**](https://twitter.com/J0rgeSerran0)
