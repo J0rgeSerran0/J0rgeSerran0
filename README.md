@@ -10,7 +10,7 @@ At present, I am coordinator of the [**User Group - MsCoders**](https://www.meet
 
 ### :point_right: Today
 
-I'm currently working on **[OCU Consumidores](https://www.ocu.org/)**, an Organisation of Consumers and Users.
+I'm currently working at **[OCU Consumidores](https://www.ocu.org/)**, an Organisation of Consumers and Users.
 
 There I work with different technologies, most of them related with Microsoft (.NET Core, Microsoft Azure, Microsoft Office 365, etc).
 
