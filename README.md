@@ -6,7 +6,7 @@ I have been awarded as **Microsoft MVP** during 16 years (2001-2017), I love the
 
 I have published videos and courses, written more than 10 books and more than 100 articles for specialized magazines in the past.
 
-At present, I am coordinator of an [**User Group - MsCoders**](https://www.meetup.com/es-ES/MSCoders/#), and I write technical posts on my [**Blog**](https://geeks.ms/jorge/), sharing and **always learning**!
+At present, I am coordinator of the [**User Group - MsCoders**](https://www.meetup.com/es-ES/MSCoders/#), and I write technical posts on my [**Blog**](https://geeks.ms/jorge/), sharing and **always learning**!
 
 ### :point_right: Today
 
