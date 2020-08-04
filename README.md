@@ -12,7 +12,7 @@ At present, I write technical posts on my blog [here](https://geeks.ms/jorge/), 
 
 I'm currently working on **[OCU Consumidores](https://www.ocu.org/)**, an Organisation of Consumers and Users.
 
-In my company, we work with a lot of different technologies, most of them related with Microsoft (.NET Core, Microsoft Azure, Microsoft Office 365, etc).
+There I work with different technologies, most of them related with Microsoft (.NET Core, Microsoft Azure, Microsoft Office 365, etc).
 
 My rol there is a multidisciplinary rol, our line of work and responsibility is horizontal with a strong team work, all of us have a lot of experience, however I like to say that I am **Developer**!
 
