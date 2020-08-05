@@ -12,7 +12,7 @@ At present, I am coordinator of the [**User Group - MsCoders**](https://www.meet
 
 I'm currently working at **[OCU Consumidores](https://www.ocu.org/)**, an Organisation of Consumers and Users.
 
-There I work with different technologies, most of them related with Microsoft (.NET Core, Microsoft Azure, Microsoft Office 365, etc).
+There, I work with different technologies, most of them related with Microsoft (.NET Core, Microsoft Azure, Microsoft Office 365, etc).
 
 I have a multidisciplinary role, focused in team work, and working in an experienced team with high responsibility, anyway I love to say that I am **Developer**!
 
