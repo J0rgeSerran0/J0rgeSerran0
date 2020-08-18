@@ -2,7 +2,7 @@
 
 My name is **Jorge Serrano** and I live in **[Madrid (Spain)](https://www.google.es/maps/place/Madrid/@40.4381311,-3.8196213,11z/data=!3m1!4b1!4m5!3m4!1s0xd422997800a3c81:0xc436dec1618c2269!8m2!3d40.4167754!4d-3.7037902)**.
 
-I have been awarded as **Microsoft MVP** during 16 years (2001-2017), , so I am a technology lover and I like help to others.
+I have been awarded as **Microsoft MVP** during 16 years (2001-2017), I am a technology lover and I like help to others.
 
 I have published videos and courses, written more than 10 books and more than 100 articles for specialized magazines in the past.
 
