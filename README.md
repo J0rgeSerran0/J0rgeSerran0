@@ -22,3 +22,7 @@ You can find/contact me here:
 * [**Microsoft MVP Profile**](https://mvp.microsoft.com/es-es/PublicProfile/8633)
 * [**LinkedIn**](https://www.linkedin.com/in/jorge-serrano-p%C3%A9rez-24388520/)
 * [**Twitter - J0rgeSerran0**](https://twitter.com/J0rgeSerran0)
+
+Visitors counter 
+
+![Visitor Count](https://profile-counter.glitch.me/J0rgeSerran0/count.svg)
