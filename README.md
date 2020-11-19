@@ -23,4 +23,4 @@ You can find/contact me here:
 * [**LinkedIn**](https://www.linkedin.com/in/jorge-serrano-p%C3%A9rez-24388520/)
 * [**Twitter - J0rgeSerran0**](https://twitter.com/J0rgeSerran0)
 
-![Jorge Serrano Perez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J0rgeSerran0&show_icons=true&theme=tokyonight)
+![Jorge Serrano Perez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J0rgeSerran0&show_icons=true&title_color=D59DFF&icon_color=D59DFF&text_color=FFF&bg_color=3B2E58)
