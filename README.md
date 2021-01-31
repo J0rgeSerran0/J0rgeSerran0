@@ -22,6 +22,7 @@ You can find/contact me here:
 * [**Microsoft MVP Profile**](https://mvp.microsoft.com/es-es/PublicProfile/8633)
 * [**LinkedIn**](https://www.linkedin.com/in/jorge-serrano-p%C3%A9rez-24388520/)
 * [**Twitter - J0rgeSerran0**](https://twitter.com/J0rgeSerran0)
+* [**YouTube - TechnoPills**](https://www.youtube.com/playlist?list=PLe76QnHF1pPGOC8HcJDICM0IdJNVP6erj)
 
 ![Jorge Serrano Perez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J0rgeSerran0&show_icons=true&title_color=D59DFF&icon_color=D59DFF&text_color=FFF&bg_color=3B2E58)
 
