@@ -24,6 +24,5 @@ You can find/contact me here:
 * [**Twitter - J0rgeSerran0**](https://twitter.com/J0rgeSerran0)
 * [**YouTube - TechnoPills**](https://www.youtube.com/playlist?list=PLe76QnHF1pPGOC8HcJDICM0IdJNVP6erj)
 
-![Jorge Serrano Perez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J0rgeSerran0&show_icons=true&title_color=D59DFF&icon_color=D59DFF&text_color=FFF&bg_color=3B2E58)
-
-![Jorge Serrano Perez's Most Used Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=J0rgeSerran0&show_owner=true&title_color=D59DFF&icon_color=D59DFF&text_color=FFF&bg_color=3B2E58)
+![Jorge Serrano Perez's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J0rgeSerran0&show_icons=true&title_color=D59DFF&icon_color=D59DFF&text_color=FFF&bg_color=3B2E58&hide=CSS,HTML&langs_count=3)
+![Jorge Serrano Perez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J0rgeSerran0&show_owner=true&title_color=D59DFF&icon_color=D59DFF&text_color=FFF&bg_color=3B2E58&show_icons=true&line_height=27)
