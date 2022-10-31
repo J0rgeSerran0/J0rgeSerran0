@@ -20,6 +20,7 @@ You can find/contact me here:
 
 * [**Blog**](https://geeks.ms/jorge/)
 * [**Microsoft MVP Profile**](https://mvp.microsoft.com/es-es/PublicProfile/8633)
+* [**Spotify Artist Profile (My own music)**](https://open.spotify.com/artist/7GK7kNGjKLYpV70rXV3vdy)
 * [**LinkedIn**](https://www.linkedin.com/in/jorge-serrano-p%C3%A9rez-24388520/)
 * [**Twitter - J0rgeSerran0**](https://twitter.com/J0rgeSerran0)
 * [**YouTube - TechnoPills**](https://www.youtube.com/playlist?list=PLe76QnHF1pPGOC8HcJDICM0IdJNVP6erj)
