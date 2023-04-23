@@ -20,10 +20,11 @@ You can find/contact me here:
 
 * [**Blog**](https://geeks.ms/jorge/)
 * [**Microsoft MVP Profile**](https://mvp.microsoft.com/es-es/PublicProfile/8633)
-* [**Spotify Artist Profile (My own music)**](https://open.spotify.com/artist/7GK7kNGjKLYpV70rXV3vdy)
 * [**LinkedIn**](https://www.linkedin.com/in/jorge-serrano-p%C3%A9rez-24388520/)
 * [**Twitter - J0rgeSerran0**](https://twitter.com/J0rgeSerran0)
 * [**YouTube - TechnoPills**](https://www.youtube.com/playlist?list=PLe76QnHF1pPGOC8HcJDICM0IdJNVP6erj)
+* [**Spotify Artist Profile (My own music)**](https://open.spotify.com/artist/7GK7kNGjKLYpV70rXV3vdy)
+* [**Jorge Serrano (Music Composer) - Website**](https://jorgeserrano-music.github.io/)
 
 ![Jorge Serrano Perez's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J0rgeSerran0&show_icons=true&title_color=D59DFF&icon_color=D59DFF&text_color=FFF&bg_color=3B2E58&hide=CSS,HTML&langs_count=3)
 ![Jorge Serrano Perez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J0rgeSerran0&show_owner=true&title_color=D59DFF&icon_color=D59DFF&text_color=FFF&bg_color=3B2E58&show_icons=true&line_height=27)
