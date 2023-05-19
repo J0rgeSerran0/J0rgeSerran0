@@ -20,6 +20,7 @@ You can find/contact me here:
 
 * [**Blog**](https://geeks.ms/jorge/)
 * [**Microsoft MVP Profile**](https://mvp.microsoft.com/es-es/PublicProfile/8633)
+* [**Microsoft MVP Alumni**](https://www.credly.com/badges/ef44b8c4-e056-48e5-8ffb-de74b33e781b)
 * [**LinkedIn**](https://www.linkedin.com/in/jorge-serrano-p%C3%A9rez-24388520/)
 * [**Twitter - J0rgeSerran0**](https://twitter.com/J0rgeSerran0)
 * [**YouTube - TechnoPills**](https://www.youtube.com/playlist?list=PLe76QnHF1pPGOC8HcJDICM0IdJNVP6erj)
